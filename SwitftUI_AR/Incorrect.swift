@@ -47,12 +47,12 @@ struct Incorrect: View {
                    
                     HStack{
                         
-                        Text("ELEN20005")
+                        Text("PHY20005")
                             .font(Font.custom("Poppins-Regular",size:28))
                             .foregroundColor(.white)
                             
                         
-                    }.position(x: 110, y: -40)
+                    }.position(x: 90, y: -40)
                     Text("Unfortunately\n Wrong Answer")
                         .font(Font.custom("Poppins-Regular",size:28))
                         .foregroundColor(.white)

@@ -28,6 +28,7 @@ struct ContentView: View {
                         .frame( height: 20)
                     Image("Logo-1")
                     Spacer()
+                        .frame(height:230)
                     Button(action: {
                         self.isActive = true
                     }, label: {

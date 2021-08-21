@@ -53,18 +53,18 @@ struct Correct: View {
                    
                     HStack{
                         
-                        Text("ELEN20005")
+                        Text("PHY20005")
                             .font(Font.custom("Poppins-Regular",size:28))
                             .foregroundColor(.white)
                             
                         
-                    }.position(x: 110, y: -40)
+                    }.position(x: 90, y: -40)
                     Text("Congragulations\n Correct Answer")
                         .font(Font.custom("Poppins-Regular",size:28))
                         .foregroundColor(.white)
-                        .offset(x: 0, y: -200)
+                        .offset(x: 0, y: -180)
                     Image("Group 19")
-                        .offset(x:0, y:-200)
+                        .offset(x:0, y: -180)
                     
                     Button(action: {
                         self.selection = 2

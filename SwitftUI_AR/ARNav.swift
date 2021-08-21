@@ -68,12 +68,13 @@ struct ARNav: View {
                             Image("Group_10")
                         })
                         
-                        Text("ELEN20005")
+                        Text("PHY20005")
                             .font(Font.custom("Poppins-Regular",size:28))
                             .foregroundColor(.white)
                         
                     }.position(x: 110, y: 0)
                     Image("Question")
+                        .offset(x:0, y:20)
                     if page == "ARView" {
                         ZStack {
                             NavigationIndicator().frame(height: 600)

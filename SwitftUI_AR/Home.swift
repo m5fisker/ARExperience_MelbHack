@@ -63,7 +63,7 @@ struct Home: View {
                                 Button(action: {
                                     self.selection = 2
                                 }, label: {
-                                    Image("Group_5")
+                                    Image("Group 51")
                                 })
                                 Button(action: {
                                     self.selection = 2

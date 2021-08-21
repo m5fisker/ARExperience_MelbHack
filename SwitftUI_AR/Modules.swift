@@ -59,7 +59,7 @@ struct Modules: View {
                             Image("Group_10")
                         })
                         
-                        Text("ELEN20005")
+                        Text("PHY20005")
                             .font(Font.custom("Poppins-Regular",size:28))
                             .foregroundColor(.white)
                             
