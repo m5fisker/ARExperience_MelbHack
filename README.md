@@ -11,11 +11,12 @@ Since the pandemic needs to be understood as an opportunity for adaptation and e
 ## How we built it
 We first drafted the design with Figma, after deciding on the AR experiment we want to demonstrate, we built it using Swift, Maya, and echoAR.
 
-## How to install
+## Installation
 
 1. Clone the repository 
 
-  ``` git clone```
+  ``` git clone https://github.com/your_username_/Project-Name.git
+```
 
 2. Open the project using XCode, minumum deployment requirements IOS 14
 
