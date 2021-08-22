@@ -59,7 +59,7 @@ struct Correct: View {
                             
                         
                     }.position(x: 90, y: -40)
-                    Text("Congragulations\n Correct Answer")
+                    Text("Congratulations\n Correct Answer")
                         .font(Font.custom("Poppins-Regular",size:28))
                         .foregroundColor(.white)
                         .offset(x: 0, y: -180)

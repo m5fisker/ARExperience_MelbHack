@@ -117,7 +117,7 @@ struct login: View {
                     Spacer()
                         .frame(height:70)
                     HStack{
-                        Text("Don't have an accout?")
+                        Text("Don't have an account?")
                             .font(Font.custom("Poppins-Regular",size:15))
                             .foregroundColor(.white)
                         
