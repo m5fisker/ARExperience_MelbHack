@@ -15,7 +15,7 @@ We first drafted the design with Figma, after deciding on the AR experiment we w
 
 1. Clone the repository 
 
-  ` git clone ` 
+  `     git clone ` 
 
 2. Open the project using XCode, minumum deployment requirements IOS 14
 
